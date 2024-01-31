@@ -15,6 +15,7 @@
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
+
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
