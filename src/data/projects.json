@@ -4,8 +4,8 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://fabulous-concha-6f18d2.netlify.app/",
+    "source": "https://github.com/HARSHHARSANI/Ecommerce-Advanced"
   },
   {
     "title": "Facebook Clone",
