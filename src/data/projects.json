@@ -11,7 +11,7 @@
     "title": "Hotel Management App",
     "imageSrc": "projects/oyo.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Next.js", "MongoDB"],
+    "skills": ["Next.js", "MongoDB", "MERN"],
     "demo": "https://hotel-management-software.vercel.app/",
     "source": "https://github.com/HARSHHARSANI/Hotel-management-software"
   },
@@ -26,16 +26,16 @@
   {
     "title": "Dice Game",
     "imageSrc": "projects/dice.png",
-    "description": "This is a project made for fun .",
-    "skills": ["React"],
+    "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
+    "skills": ["React", "HTML", "CSS"],
     "demo": "https://rainbow-alpaca-7c194e.netlify.app/",
     "source": "https://github.com/HARSHHARSANI/dice-Game"
   },
   {
     "title": "Nike Home Page",
     "imageSrc": "projects/nike.png",
-    "description": "This is a project made for fun .",
-    "skills": ["React"],
+    "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
+    "skills": ["React", "HTML", "CSS"],
     "demo": "https://cerulean-nougat-306521.netlify.app",
     "source": "https://github.com/HARSHHARSANI/nike"
   }
