@@ -9,7 +9,7 @@
   },
   {
     "title": "Hotel Management App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/oyo.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Next.js", "MongoDB"],
     "demo": "https://hotel-management-software.vercel.app/",

@@ -7,11 +7,7 @@ const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
-      <img
-        src={getImageUrl("projects/project.png")}
-        alt={title}
-        className={styles.image}
-      />
+      <img src={getImageUrl(imageSrc)} alt={title} className={styles.image} />
       <h3 className={styles.title}> {title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
