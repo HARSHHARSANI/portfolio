@@ -16,6 +16,14 @@
     "source": "https://github.com/HARSHHARSANI/Hotel-management-software"
   },
   {
+    "title": "Cource Management App",
+    "imageSrc": "projects/project.png",
+    "description": "In Progress (Learning few AWS concepts for Handlign video rendering And Cloud storage",
+    "skills": ["React", "Express", "Node", "MongoDB", "Next.js", "AWS"],
+    "demo": "https://hotel-management-software.vercel.app/",
+    "source": "https://github.com/HARSHHARSANI/Hotel-management-software"
+  },
+  {
     "title": "Dice Game",
     "imageSrc": "projects/dice.png",
     "description": "This is a project made for fun .",
