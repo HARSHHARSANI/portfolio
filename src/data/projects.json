@@ -12,21 +12,13 @@
     "imageSrc": "projects/oyo.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Next.js", "MongoDB", "MERN"],
-    "demo": "https://hotel-management-software.vercel.app/",
-    "source": "https://github.com/HARSHHARSANI/Hotel-management-software"
-  },
-  {
-    "title": "Cource Management App",
-    "imageSrc": "projects/project.png",
-    "description": "In Progress (handeling video rendering And Cloud storage)",
-    "skills": ["MERN", "Next.js", "AWS"],
-    "demo": "https://hotel-management-software.vercel.app/",
-    "source": "https://github.com/HARSHHARSANI/Hotel-management-software"
+    "demo": "ghumo-hotel-management-do05hbar5-harshharsanis-projects.vercel.app",
+    "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
   },
   {
     "title": "Dice Game",
     "imageSrc": "projects/dice.png",
-    "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
+    "description": "This is a project made for fun . Learning Few CSS concepts And  Styling",
     "skills": ["React", "HTML", "CSS"],
     "demo": "https://rainbow-alpaca-7c194e.netlify.app/",
     "source": "https://github.com/HARSHHARSANI/dice-Game"
@@ -37,6 +29,22 @@
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
     "skills": ["React", "HTML", "CSS"],
     "demo": "https://cerulean-nougat-306521.netlify.app",
+    "source": "https://github.com/HARSHHARSANI/nike"
+  },
+  {
+    "title": "Food Delivery Page",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://sunny-pixie-b6badc.netlify.app/",
+    "source": "https://github.com/HARSHHARSANI/nike"
+  },
+  {
+    "title": "Crypto Dashboard",
+    "imageSrc": "projects/food.png",
+    "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://sunny-pixie-b6badc.netlify.app/",
     "source": "https://github.com/HARSHHARSANI/nike"
   }
 ]
