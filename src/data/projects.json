@@ -37,7 +37,7 @@
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
     "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://sunny-pixie-b6badc.netlify.app/",
-    "source": "https://github.com/HARSHHARSANI/nike"
+    "source": "https://github.com/HARSHHARSANI/foody"
   },
   {
     "title": "Crypto Dashboard",
@@ -45,6 +45,6 @@
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
     "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://animated-bublanina-88c214.netlify.app",
-    "source": "https://github.com/HARSHHARSANI/nike"
+    "source": "https://github.com/HARSHHARSANI/CryptoNight"
   }
 ]
