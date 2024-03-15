@@ -19,7 +19,7 @@
     "title": "Dice Game",
     "imageSrc": "projects/dice.png",
     "description": "This is a project made for fun . Learning Few CSS concepts And  Styling",
-    "skills": ["React", "HTML", "CSS"],
+    "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://rainbow-alpaca-7c194e.netlify.app/",
     "source": "https://github.com/HARSHHARSANI/dice-Game"
   },
@@ -27,7 +27,7 @@
     "title": "Nike Home Page",
     "imageSrc": "projects/nike.png",
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
-    "skills": ["React", "HTML", "CSS"],
+    "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://cerulean-nougat-306521.netlify.app",
     "source": "https://github.com/HARSHHARSANI/nike"
   },
@@ -35,16 +35,16 @@
     "title": "Food Delivery Page",
     "imageSrc": "projects/food.png",
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
-    "skills": ["React", "HTML", "CSS"],
+    "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://sunny-pixie-b6badc.netlify.app/",
     "source": "https://github.com/HARSHHARSANI/nike"
   },
   {
     "title": "Crypto Dashboard",
-    "imageSrc": "projects/food.png",
+    "imageSrc": "projects/crypto.png",
     "description": "This is a project made for fun . Learning Few CSS concepts And a bit of Styling",
-    "skills": ["React", "HTML", "CSS"],
-    "demo": "https://sunny-pixie-b6badc.netlify.app/",
+    "skills": ["React", "HTML", "CSS", "Redux"],
+    "demo": "https://animated-bublanina-88c214.netlify.app",
     "source": "https://github.com/HARSHHARSANI/nike"
   }
 ]
