@@ -16,6 +16,14 @@
     "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
   },
   {
+    "title": "Bloggify",
+    "imageSrc": "projects/bloggify.png",
+    "description": "This is a p , roject made For Interview",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "http://65.0.130.210/",
+    "source": "https://github.com/HARSHHARSANI/blogApplication"
+  },
+  {
     "title": "Dice Game",
     "imageSrc": "projects/dice.png",
     "description": "This is a project made for fun . Learning Few CSS concepts And  Styling",
