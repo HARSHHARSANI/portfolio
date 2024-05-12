@@ -1,6 +1,6 @@
 [
   {
-    "title": "Ecommerce App",
+    "title": "DigiStore",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "MongoDB"],
@@ -8,12 +8,20 @@
     "source": "https://github.com/HARSHHARSANI/Ecommerce-Advanced"
   },
   {
-    "title": "Hotel Management App",
+    "title": "Ghumo: Hotel Management App",
     "imageSrc": "projects/oyo.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["Next.js", "MongoDB", "MERN"],
     "demo": "ghumo-hotel-management-do05hbar5-harshharsanis-projects.vercel.app",
     "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
+  },
+  {
+    "title": "Privezer",
+    "imageSrc": "projects/privezer.png",
+    "description": "This is a project made to learn Socket.Io by building an app.",
+    "skills": ["Next.js", "MongoDB", "MERN", "socket.io"],
+    "demo": "https://dainty-kheer-833785.netlify.app/",
+    "source": "https://github.com/HARSHHARSANI/privezer"
   },
   {
     "title": "Bloggify",
