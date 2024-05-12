@@ -8,14 +8,6 @@
     "source": "https://github.com/HARSHHARSANI/Ecommerce-Advanced"
   },
   {
-    "title": "Ghumo: Hotel Management App",
-    "imageSrc": "projects/oyo.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Next.js", "MongoDB", "MERN"],
-    "demo": "ghumo-hotel-management-do05hbar5-harshharsanis-projects.vercel.app",
-    "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
-  },
-  {
     "title": "Privezer",
     "imageSrc": "projects/privezer.png",
     "description": "This is a project made to learn Socket.Io by building an app.",
@@ -30,6 +22,14 @@
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "http://65.0.130.210/",
     "source": "https://github.com/HARSHHARSANI/blogApplication"
+  },
+  {
+    "title": "Ghumo: Hotel Management App",
+    "imageSrc": "projects/oyo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next.js", "MongoDB", "MERN"],
+    "demo": "ghumo-hotel-management-do05hbar5-harshharsanis-projects.vercel.app",
+    "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
   },
   {
     "title": "Dice Game",
@@ -62,5 +62,13 @@
     "skills": ["React", "HTML", "CSS", "Redux"],
     "demo": "https://animated-bublanina-88c214.netlify.app",
     "source": "https://github.com/HARSHHARSANI/CryptoNight"
+  },
+  {
+    "title": "Ghumo: Hotel Management App",
+    "imageSrc": "projects/oyo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next.js", "MongoDB", "MERN"],
+    "demo": "ghumo-hotel-management-do05hbar5-harshharsanis-projects.vercel.app",
+    "source": "https://github.com/HARSHHARSANI/Hotel-managhttps://github.com/HARSHHARSANI/Ghumo---Hotel-Management-App"
   }
 ]
